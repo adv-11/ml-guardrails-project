@@ -1,7 +1,8 @@
 # ml-guardrails-project
 semester project for 257-ml
 
-![poster_image.png]
+![poster](poster_image.png)
+
 # contributors
 
 1. adv ( Advait Shinde )
